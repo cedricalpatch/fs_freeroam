@@ -1,4 +1,4 @@
-# fs_freeroam v0.1.3
+# fs_freeroam v0.1.4
 <a href="https://discord.gg/eNJraMf"><img alt="Discord Status" src="https://discordapp.com/api/guilds/285462938691567627/widget.png"></a>
 
 fs_freeroam is a FiveM game mode with a money system.  
@@ -6,7 +6,7 @@ The player can receive jobs, survivals, buy buildings, drugs and many more.
 
  **Note:**   
 This project brings developers together to work on a script that can be used for different types of servers.  
-Have some respect for the people that contribute to this project and don't just copy/paste our time and work that we put in this project, instead [contribute](CONTRIBUTING.MD).**
+Have some respect for the people that contribute to this project and don't just copy/paste our time and work that we put in this project, instead [contribute](CONTRIBUTING.MD).
 
 ## Changelog
 You can find our changelog [here](CHANGELOG.md)
